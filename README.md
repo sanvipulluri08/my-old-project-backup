@@ -2,7 +2,7 @@
 An AI-powered emergency room operational simulator designed to train healthcare staff by generating chaotic clinical crises based on real-time shift circumstances.
 
 ## Live Demo
-**Link:** [Insert Vercel URL here]
+**Link:** er-drill-simulator.vercel.app
 
 
 
